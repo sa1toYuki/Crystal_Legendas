@@ -16,9 +16,9 @@ Video File: ../RAW/Smoking Behind the Supermarket with You - S01E01 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 7496
-Active Line: 7499
-Video Position: 4272
+Scroll Position: 7490
+Active Line: 7495
+Video Position: 3268
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -7535,6 +7535,7 @@ Dialogue: 0,0:01:49.76,0:01:49.84,Creditos,,0,0,0,,{\fs55\fnSimple Notes Free De
 Dialogue: 0,0:01:49.84,0:01:49.92,Creditos,,0,0,0,,{\fs55\fnSimple Notes Free Demo\c&H202020&\frx2\fry0\clip(m 898 779 l 888 751 876 695 749 670 741 778)\pos(936,725.6)\frz358.5}Typeset:Yuki
 Dialogue: 0,0:01:49.92,0:01:50.09,Creditos,,0,0,0,,{\fs55\fnSimple Notes Free Demo\c&H202020&\pos(936,725.6)}Typeset:Yuki
 Dialogue: 0,0:01:50.09,0:01:50.52,Creditos,,0,0,0,,{\fs55\fnSimple Notes Free Demo\c&H202020&\frx0\fry2\pos(937.6,725.6)}Typeset:Yuki
+Dialogue: 0,0:02:15.01,0:02:17.47,Creditos,,0,0,0,,{\bord0.5\blur4\fad(667,1)\fnYu Mincho\fs55\c&HECECEC&\fscx100\fscy83\pos(1624,548)}Encode: Yuki
 Dialogue: 0,0:02:24.81,0:02:30.48,Creditos,,0,0,0,,{\bord0.1\blur4\fad(754,1)\fnYu Mincho\fs50\c&HE0E0E0&\fscx100\fscy83\pos(385.6,639.467)}Karaokê: Yuki
 Dialogue: 0,0:02:42.06,0:02:45.91,Creditos,,0,0,0,,{\bord0.1\blur4\fad(724,1)\fnYu Mincho\fs50\c&HF4F4F8&\fscx100\fscy83\pos(1613.6,459.467)}Tradução: Yuki
 Dialogue: 0,0:02:42.06,0:02:45.91,Creditos,,0,0,0,,{\bord0.1\blur4\fad(724,1)\fnYu Mincho\fs50\c&HF4F4F8&\fscx100\fscy83\pos(1627.6,617.467)}Revisão\QC: Yuki
