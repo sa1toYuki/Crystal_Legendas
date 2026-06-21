@@ -24,4 +24,5 @@ Este trabalho está licenciado sob uma licença [Creative Commons Atribuição 4
 **Ver a versão oficial completa da licença (em inglês):**  
 [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
 
+[<image-card alt="Licença: CC BY 4.0" src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" ></image-card>](https://creativecommons.org/licenses/by/4.0/)
 ---
