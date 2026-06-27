@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Legendas Open
 
 Repositório aberto dedicado ao compartilhamento de legendas em português.
+=======
+# Legendas Open
+
+Repositório aberto dedicado ao compartilhamento de legendas em português.
+
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 ## Sobre o Projeto
 
 Este repositório tem como principal objetivo **compartilhar legendas** de forma livre e colaborativa para os animes traduzidos pela Crystal Fansub.
@@ -18,6 +25,10 @@ Este é um repositório **colaborativo**! Você é livre e muito bem-vindo para 
 - Sugerir melhorias
 
 ### Forma mais fácil de contribuir:
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 1. Faça um **Fork** deste repositório
 2. Faça as alterações desejadas
 3. Abra um **Pull Request** descrevendo as mudanças
@@ -35,13 +46,18 @@ As legendas presentes aqui foram criadas e revisadas por diversos colaboradores 
 
 ---
 
+<<<<<<< HEAD
 **Sinta-se em casa!**  
+=======
+**Sinta-se em casa!**
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 Quanto mais pessoas contribuírem, melhor será o repositório para todos.
 
 Qualquer dúvida ou sugestão, abra uma **Issue** ou um **Pull Request**.
 
 ---
 
+<<<<<<< HEAD
 =======
 # Legendas Open
 
@@ -87,4 +103,6 @@ Qualquer dúvida ou sugestão, abra uma **Issue** ou um **Pull Request**.
 ---
 
 >>>>>>> 29a77cffefd361fd8bbe825ce8c06e0f9c11b655
+=======
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 [![Licença: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

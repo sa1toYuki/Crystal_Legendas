@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 # Como Contribuir
 
 Este projeto é colaborativo e toda ajuda é muito bem-vinda.
@@ -6,6 +9,10 @@ Este projeto é colaborativo e toda ajuda é muito bem-vinda.
 ## Como contribuir com legendas (.ass)
 
 ### 1. Fork e Clone o repositório
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 - Faça um **Fork** deste repositório
 - Clone o seu fork para o seu computador
 
@@ -28,9 +35,13 @@ Os arquivos de legenda neste repositório estão no formato **Advanced SubStatio
 ### 3. Envie suas alterações
 
 1. Após editar o arquivo, faça um **commit** com uma mensagem clara
+<<<<<<< HEAD
 
 2. Faça **Push** para o seu fork
 
+=======
+2. Faça **Push** para o seu fork
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 3. Abra um **Pull Request** para a branch `main` deste repositório
 
 ### Processo de Revisão
@@ -52,6 +63,7 @@ Contribuidores aprovados terão seu nome listado em:
 
 ---
 
+<<<<<<< HEAD
 **Qualquer dúvida?**  
 Abra uma [Issue](https://github.com/sa1toYuki/Crystal_Legendas/issues) ou entre em contato.
 
@@ -113,4 +125,9 @@ Contribuidores aprovados terão seu nome listado em:
 Abra uma [Issue](https://github.com/sa1toYuki/Crystal_Legendas/issues) ou entre em contato.
 
 >>>>>>> 29a77cffefd361fd8bbe825ce8c06e0f9c11b655
+=======
+**Qualquer dúvida?**
+Abra uma [Issue](https://github.com/sa1toYuki/Crystal_Legendas/issues) ou entre em contato.
+
+>>>>>>> 5d5767473a614cd29fdfb8445eb27a21b56eb61c
 Obrigado por ajudar a manter as legendas mais precisas e acessíveis para a comunidade!
