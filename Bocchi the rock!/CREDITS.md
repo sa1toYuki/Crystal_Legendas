@@ -4,7 +4,9 @@ Aqui contém todos os créditos do Anime "Bocchi the rock" Traduzido por Crystal
 
 ## Contribuidores
 
-Yuki - Karaokê, Tradução (PARCIAL)
+Yuki - Karaokê, Typeset, Tradução, Revisão
+Litch - QC, Edição de Script
+Kélvão - Multiplex
 
 ### Agradecimentos Especiais (RECONHECIDOS)
 
