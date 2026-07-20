@@ -11,14 +11,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Love Unseen Beneath the Clear Night Sky - S01E01 [1080p].av1.mkv
-Video File: Love Unseen Beneath the Clear Night Sky - S01E01 [1080p].av1.mkv
+Audio File: C:/Users/Admin/Downloads/Love Unseen Beneath the Clear Night Sky - S01E01 [1080p].av1.mkv
+Video File: C:/Users/Admin/Downloads/Love Unseen Beneath the Clear Night Sky - S01E01 [1080p].av1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 16
-Active Line: 21
-Video Position: 34171
+Active Line: 2
+Video Position: 32594
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,10 +25,8 @@ Style: Default,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:22:30.27,0:22:34.16,Default,,0,0,0,,Crystal Fansub 2026 \N{\fs56}www.crystalfansub.org
-Dialogue: 0,0:22:34.56,0:22:37.63,Default,,0,0,0,,Tradução: Yuki\NRevisão: Yuki
-Dialogue: 0,0:22:37.63,0:22:40.70,Default,,0,0,0,,Typeset: Yuki\NControle de Qualidade: Yuki
-Dialogue: 0,0:22:40.70,0:22:43.77,Default,,0,0,0,,Multiplex: Yuki
+Dialogue: 0,0:22:30.27,0:22:34.16,Default,,0,0,0,,Legendas Brasileiras por Crystal Fansub\Nwww.crystalfansub.org
+Dialogue: 0,0:22:34.56,0:22:43.56,Default,,0,0,0,,Tradução, Revisão, Typesetting, Multiplex & QC: \NYuki
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 Dialogue: 0,0:22:30.27,0:22:34.56,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kaerimichi futo tsubuyaita\N{\c&H09BCFF&}No caminho de volta para casa, sussurrei sem querer,
 Dialogue: 0,0:22:34.56,0:22:39.40,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kaze no oto ni magireru yo na koe\N{\c&H09BCFF&}com uma voz que parecia se confundir com o som do vento.
