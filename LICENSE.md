@@ -13,7 +13,7 @@ O licenciante não pode revogar essas liberdades desde que você respeite os ter
 
 ### Termos obrigatórios
 
-- **Atribuição** — Você deve dar o **crédito apropriado**, da maneira que quiser.
+- **Atribuição** — Você deve dar o **crédito apropriado** à Crystal Fansub, e o provedor da legenda, que está no arquivo markdown na pasta do projeto neste repositório, da maneira que quiser.
 
 ---
 
