@@ -1,20 +1,24 @@
 # Créditos
 
-Aqui contém todos os créditos do Anime **Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta** traduzido pela **Crystal Fansub**.
+Aqui contém todos os créditos do Anime **"Darling in the FRANXX"** traduzido pela **Crystal Fansub**.
 
 ## Contribuidores CFSB
 
 | Nome | Função |
 |------|--------|
-| Kélvão | Multiplex |
-| Yuki | Tradução, Karaokê, Revisão, Typeset |
-| RKZ | QC |
+| Kélvão | Multiplex, Encode |
+| Marshee | Tradução |
+| Yuki | Karaokê, Revisão |
+| Lichyt | QC |
 
 ## Provedores (Reconhecidos)
 
 | Nome | Contribuição |
 |------|--------------|
-| AkihitoSubsWeeklies [ASW] | Provedor de WEB-DL & Legendas em Inglês |
+| Chotab | Legendas em Inglês |
+| Kawatare | BD-RIP |
+| BlackRose | Provedor |
+
 
 ## Como ter seu nome nos créditos
 

@@ -1,20 +1,19 @@
 # Créditos
 
-Aqui contém todos os créditos do Anime **Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta** traduzido pela **Crystal Fansub**.
+Aqui contém todos os créditos do Anime **Oh boy, was i wrong about her** traduzido pela **Crystal Fansub**.
 
 ## Contribuidores CFSB
 
 | Nome | Função |
 |------|--------|
-| Kélvão | Multiplex |
-| Yuki | Tradução, Karaokê, Revisão, Typeset |
-| RKZ | QC |
+| Yuki | Tradução, Multiplex, Diagramação, QC, OP & ED Lyrics |
+
 
 ## Provedores (Reconhecidos)
 
 | Nome | Contribuição |
 |------|--------------|
-| AkihitoSubsWeeklies [ASW] | Provedor de WEB-DL & Legendas em Inglês |
+| Crystal Fansub | Provedor de WEB-DL & Legendas em Inglês |
 
 ## Como ter seu nome nos créditos
 
@@ -30,11 +29,5 @@ Todas as legendas presentes neste repositório estão licenciadas sob [CC BY 4.0
 Ao contribuir, você concorda que seu trabalho também será distribuído sob a mesma licença.
 
 Obrigado a todos que ajudam a tornar este repositório útil para a comunidade!
-
----
-
-### Nota 2
-
-O efeito de karaokê utilizado neste projeto foi pego de um repositório aberto no próprio GitHub, porém não o encontrei.
 
 **Última atualização:** 29 de julho de 2026

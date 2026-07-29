@@ -1,20 +1,23 @@
 # Créditos
 
-Aqui contém todos os créditos do Anime **Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta** traduzido pela **Crystal Fansub**.
+Aqui contém todos os créditos do Anime **Bocchi za Rokku!"** traduzido pela **Crystal Fansub**.
 
 ## Contribuidores CFSB
 
 | Nome | Função |
 |------|--------|
 | Kélvão | Multiplex |
-| Yuki | Tradução, Karaokê, Revisão, Typeset |
-| RKZ | QC |
+| Yuki | Tradução, Revisão, Typeset, Karaokê |
+| Lichyt | QC |
 
 ## Provedores (Reconhecidos)
 
 | Nome | Contribuição |
 |------|--------------|
-| AkihitoSubsWeeklies [ASW] | Provedor de WEB-DL & Legendas em Inglês |
+| Gotch | Legendas em Inglês |
+| Kawatare | BD-RIP |
+| SubsMix | Provedor |
+
 
 ## Como ter seu nome nos créditos
 
