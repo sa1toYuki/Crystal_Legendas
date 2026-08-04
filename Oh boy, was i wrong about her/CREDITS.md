@@ -6,7 +6,7 @@ Aqui contém todos os créditos do Anime **Oh boy, was i wrong about her** tradu
 
 | Nome | Função |
 |------|--------|
-| Yuki | Tradução, Multiplex, Diagramação, QC, OP & ED Lyrics |
+| Yuki | Tradução, Multiplex, Diagramação, QC, Tradução OP & ED |
 
 
 ## Provedores (Reconhecidos)
@@ -14,6 +14,7 @@ Aqui contém todos os créditos do Anime **Oh boy, was i wrong about her** tradu
 | Nome | Contribuição |
 |------|--------------|
 | Crystal Fansub | Provedor de WEB-DL & Legendas em Inglês |
+| Utatime | Romanização e tradução para o inglês de OP & ED | www.utatime.com |
 
 ## Como ter seu nome nos créditos
 
@@ -30,4 +31,4 @@ Ao contribuir, você concorda que seu trabalho também será distribuído sob a 
 
 Obrigado a todos que ajudam a tornar este repositório útil para a comunidade!
 
-**Última atualização:** 29 de julho de 2026
+**Última atualização:** 4 de Agosto de 2026
