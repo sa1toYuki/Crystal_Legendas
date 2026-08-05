@@ -16,8 +16,6 @@ Video File: Love Unseen Beneath the Clear Night Sky - S01E01 [1080p].av1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 21
-Active Line: 25
 Video Position: 2125
 
 [V4+ Styles]
@@ -27,29 +25,31 @@ Style: sign_TimesNewRoman,Times New Roman,70,&H00FFFFFF,&H000000FF,&H00000000,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:32.22,0:00:42.81,sign_TimesNewRoman,text,0,0,0,,{\an8\bord0\c&H0B121B&\shad0\3c&HF7C68C&\fad(7908,1)\t(9670,10035,\c&HE8ABCA&\blur4)\pos(933.333,98.857)}Amor {\blur0\alphaFF\t(1,6573,\alpha00)\b0\c&H0B121B&}oculto sobre o céu noturno límpido
-Dialogue: 0,0:00:16.46,0:00:23.21,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Kawazoi hitoiki de nishi no sora chiru hanabi
-Dialogue: 0,0:00:23.21,0:00:28.15,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Hanarenai you ni te wo tsunaida
-Dialogue: 0,0:00:42.81,0:00:45.79,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Hirameku yoru no mukou
-Dialogue: 0,0:00:46.04,0:00:49.41,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Tsutsumu you na samishisa wo
-Dialogue: 0,0:00:49.41,0:00:54.47,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Oshiete kureta no mo kimi datta
-Dialogue: 0,0:00:55.95,0:01:01.62,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Hamayuu no hanabira hitohira
-Dialogue: 0,0:01:02.44,0:01:07.34,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Itami made mo todomeru you ni
-Dialogue: 0,0:01:08.08,0:01:11.04,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Mune ni hasamatta mama
-Dialogue: 0,0:01:11.58,0:01:18.04,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Owaranai de to tada negatte ita
-Dialogue: 0,0:01:18.20,0:01:24.84,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Kimi ga boku no ikiru imi datta
-Dialogue: 0,0:01:24.84,0:01:31.23,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Bokura mienai asu wo miagetaita
-Dialogue: 0,0:01:31.37,0:01:40.74,Default,,0,0,0,,{\b1\fad(200,100)\fn Garamond\fs60\an8}Aseru natsu no yume wo yakitsukenagara
-Dialogue: 0,0:01:40.74,0:01:43.74,Default,,0,0,0,,
-Dialogue: 0,0:00:16.46,0:00:23.21,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}À beira do rio, num instante, os fogos de artifício se desfazem no céu do oeste,
-Dialogue: 0,0:00:23.21,0:00:28.15,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}demos as mãos para que não nos separássemos.
-Dialogue: 0,0:00:42.81,0:00:45.79,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}Além da noite reluzente,
-Dialogue: 0,0:00:46.04,0:00:49.41,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}uma solidão que parece nos envolver,
-Dialogue: 0,0:00:49.41,0:00:54.47,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}foi você quem também me ensinou a sentir.
-Dialogue: 0,0:00:55.95,0:01:01.62,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}Uma única pétala de lírio-do-mar,
-Dialogue: 0,0:01:02.44,0:01:07.34,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}como se quisesse conter até mesmo a dor,
-Dialogue: 0,0:01:08.08,0:01:11.04,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}guardada bem no fundo do peito,
-Dialogue: 0,0:01:11.58,0:01:18.04,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}eu apenas desejava que nada disso terminasse.
-Dialogue: 0,0:01:18.20,0:01:24.84,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}Você era a razão do meu viver.
-Dialogue: 0,0:01:24.84,0:01:31.23,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}Olhávamos para cima, contemplando um amanhã invisível,
-Dialogue: 0,0:01:31.37,0:01:40.74,Default,,0,0,0,,{\bord0\b1\fad(200,100)\fn Garamond\fs60\c&H09BCFF&}enquanto gravávamos na memória este sonho de verão que se esvanece.
+Dialogue: 0,0:00:52.30,0:01:02.85,sign_TimesNewRoman,text,0,0,0,,{\fad(7343,0)\bord0\shad0\c&00000&\pos(954,1040)\b0}Numa noite cristalina, {\1a&HFF&}apaixonei-me{\1a} por \Nvocê, perseguindo um amor invisível.
+Dialogue: 0,0:00:59.64,0:01:02.85,sign_TimesNewRoman,text,0,0,0,,{\fad(787,0)\c&\bord0\shad0\b1\fs57.6\pos(1156,980)\t(1671,3043, \c&HF0A7E0&\blur3}apaixonei-me
+Comment: 0,0:00:36.35,0:00:43.11,Toumei Kara,,0,0,20,karaoke,{\k20}{\k25}Ka{\k21}wa{\k17}zo{\k38}i{\k43} {\k19}hi{\k26}to{\k12}i{\k29}ki {\k33}de{\k65} {\k16}ni{\k22}shi {\k14}no {\k72}so{\k14}ra {\k32}chi{\k36}ru {\k39}ha{\k44}na{\k39}bi
+Comment: 0,0:00:43.11,0:00:48.07,Toumei Kara,,0,0,20,karaoke,{\k0}{\k25}Ha{\k20}na{\k14}re{\k46}nai{\k44} {\k19}yo{\k21}u {\k18}ni {\k21}te {\k45}wo{\k55} {\k39}tsu{\k48}na{\k42}i{\k39}da{\k0}
+Comment: 0,0:01:02.71,0:01:05.71,Toumei Kara,,0,0,20,karaoke,{\k12}{\k24}Hi{\k13}ra{\k21}me{\k46}ku{\k44} {\k22}yo{\k18}ru {\k26}no {\k16}mu{\k58}kou{\k0}
+Comment: 0,0:01:05.96,0:01:09.30,Toumei Kara,,0,0,20,karaoke,{\k19}{\k23}u{\k17}ru{\k20}mu {\k61}you {\k15}na {\k28}sa{\k33}bi{\k45}shi{\k42}sa {\k31}wo
+Comment: 0,0:01:09.30,0:01:14.39,Toumei Kara,,0,0,20,karaoke,{\k12}{\k19}O{\k25}shi{\k15}e{\k40}te{\k47} {\k23}ku{\k17}re{\k23}ta {\k18}no {\k40}mo{\k41} {\k23}ki{\k41}mi {\k74}dat{\k51}ta{\k0}
+Comment: 0,0:01:15.85,0:01:21.52,Toumei Kara,,0,0,20,karaoke,{\k15}{\k48}Ha{\k18}ma{\k65}yu{\k16}u {\k38}no{\k23} {\k19}ha{\k65}na{\k20}bi{\k35}ra{\k23} {\k27}hi{\k52}to{\k28}hi{\k75}ra{\k0}
+Comment: 0,0:01:22.35,0:01:27.23,Toumei Kara,,0,0,20,karaoke,{\k0}{\k22}I{\k23}ta{\k18}mi {\k22}ma{\k20}de {\k64}mo {\k18}to{\k19}do{\k26}me{\k12}ru {\k61}yo{\k23}u {\k160}ni{\k0}
+Comment: 0,0:01:27.98,0:01:30.95,Toumei Kara,,0,0,20,karaoke,{\k14}{\k21}mu{\k18}ne {\k22}ni {\k10}ha{\k25}sa{\k47}ma{\k20}tta {\k20}ma{\k100}ma{\k0}
+Comment: 0,0:01:31.49,0:01:37.95,Toumei Kara,,0,0,20,karaoke,{\k13}{\k15}O{\k23}wa{\k38}ra{\k65}nai {\k64}de {\k20}to {\k43}ta{\k76}da{\k41} {\k24}ne{\k78}gat{\k29}te {\k21}i{\k96}ta{\k0}
+Comment: 0,0:01:38.12,0:01:44.75,Toumei Kara,,0,0,20,karaoke,{\k9}{\k20}Ki{\k21}mi {\k37}ga {\k43}bo{\k25}ku {\k66}no {\k12}i{\k43}ki{\k51}ru{\k72} {\k20}i{\k40}mi {\k84}dat{\k120}ta
+Comment: 0,0:01:44.75,0:01:51.13,Toumei Kara,,0,0,20,karaoke,{\k0}{\k22}Bo{\k22}ku{\k38}ra {\k47}mi{\k20}e{\k53}nai {\k21}a{\k43}su {\k60}wo{\k58} {\k26}mi{\k44}a{\k34}ge{\k28}ta {\k18}i{\k104}ta
+Comment: 0,0:01:51.26,0:02:00.64,Toumei Kara,,0,0,20,karaoke,{\k0}{\k28}Ha{\k21}ze{\k30}ru {\k52}na{\k24}tsu {\k61}no {\k20}yu{\k46}me {\k55}wo{\k58} {\k26}ya{\k38}ki{\k42}tsu{\k45}ke{\k161}na{\k26}ga{\k205}ra{\k0}
+Dialogue: 0,0:02:00.72,0:02:03.73,Default,,0,0,0,,
+Dialogue: 0,0:00:36.43,0:00:43.19,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7)}À beira do rio, no calor da multidão, fogos se desfazem no céu do oeste.
+Dialogue: 0,0:00:43.19,0:00:48.15,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Segurei a sua mão... pra gente não se separar.
+Dialogue: 0,0:01:02.79,0:01:05.79,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Além dessa noite reluzente,
+Dialogue: 0,0:01:06.04,0:01:09.38,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}quem me ensinou essa solidão de olhos marejados...
+Dialogue: 0,0:01:09.38,0:01:14.47,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}foi você quem também me ensinou a sentir.
+Dialogue: 0,0:01:15.93,0:01:21.60,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Uma única pétala de lírio-da-praia...
+Dialogue: 0,0:01:22.43,0:01:27.31,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Como se tentasse guardar até a dor,
+Dialogue: 0,0:01:28.06,0:01:31.03,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}continua cravada no meu peito.
+Dialogue: 0,0:01:31.57,0:01:38.03,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Eu só pedia... que isso não acabasse.
+Dialogue: 0,0:01:38.20,0:01:44.83,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Você era a minha razão de viver.
+Dialogue: 0,0:01:44.83,0:01:51.21,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}Nós dois olhávamos para um amanhã que não podíamos ver...
+Dialogue: 0,0:01:51.34,0:02:00.72,Toumei PTBR,,0,0,20,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&HF166E0&\blur7}enquanto gravávamos no peito esse sonho de verão que se esvanece.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

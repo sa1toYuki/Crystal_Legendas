@@ -16,7 +16,6 @@ Video File: C:/Users/Admin/Downloads/Love Unseen Beneath the Clear Night Sky - S
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
 Video Position: 32594
 
 [V4+ Styles]
@@ -25,25 +24,44 @@ Style: Default,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:22:30.27,0:22:34.16,Default,,0,0,0,,Legendas Brasileiras por Crystal Fansub\Nwww.crystalfansub.org
-Dialogue: 0,0:22:34.56,0:22:43.56,Default,,0,0,0,,Tradução, Revisão, Typesetting, Multiplex & QC: \NYuki
+Comment: 0,0:22:30.06,0:22:34.29,Toumei Kara ED,,0,0,0,karaoke,{\k37}{\k31}Ka{\k26}e{\k23}ri{\k24}mi{\k54}chi {\k30}fu{\k21}to {\k31}tsu{\k27}bu{\k23}ya{\k24}i{\k79}ta{\k0}
+Comment: 0,0:22:34.29,0:22:39.09,Toumei Kara ED,,0,0,0,karaoke,{\k28}{\k26}Ka{\k25}ze {\k28}no {\k25}o{\k54}to {\k27}ni {\k23}ma{\k56}gi{\k25}re{\k23}ru {\k55}yo {\k25}na {\k29}ko{\k34}e{\k0}
+Comment: 0,0:22:39.19,0:22:43.27,Toumei Kara ED,,0,0,0,karaoke,{\k31}{\k32}So{\k50}no {\k28}tsu{\k26}zu{\k28}ki {\k27}wo {\k27}i{\k24}wa{\k39}na{\k15}ku{\k45}te {\k36}mo{\k0}
+Comment: 0,0:22:43.27,0:22:47.68,Toumei Kara ED,,0,0,0,karaoke,{\k21}{\k32}Cha{\k23}n{\k23}to {\k28}ki{\k26}mi {\k28}wa {\k26}hi{\k50}rot{\k26}te {\k54}ku{\k53}re{\k51}ru{\k0}
+Comment: 0,0:22:47.68,0:22:51.83,Toumei Kara ED,,0,0,0,karaoke,{\k29}{\k25}U{\k25}ma{\k23}ku {\k30}tsu{\k27}ta{\k26}e{\k25}ra{\k27}re{\k26}na{\k51}i {\k28}yo{\k23}u {\k50}na{\k0}
+Comment: 0,0:22:51.83,0:22:55.96,Toumei Kara ED,,0,0,0,karaoke,{\k29}{\k25}Ko{\k27}to{\k26}ba {\k26}mo {\k26}to{\k51}ki{\k27}do{\k25}ki {\k52}a{\k27}ru {\k27}ke{\k45}do{\k0}
+Comment: 0,0:22:55.96,0:23:00.09,Toumei Kara ED,,0,0,0,karaoke,{\k27}So{\k27}re{\k27}de{\k41}mo {\k27}ki{\k40}mi {\k26}no {\k25}ya{\k26}sa{\k48}shi{\k61}sa {\k38}de{\k0}
+Comment: 0,0:23:00.09,0:23:06.18,Toumei Kara ED,,0,0,0,karaoke,{\k0}{\k34}Su{\k24}ko{\k53}shi{\k33} {\k24}na{\k30}mi{\k24}da {\k24}ga {\k23}de{\k30}so{\k26}u {\k24}ni {\k103}nat{\k46}te {\k37}shi{\k25}ma{\k20}u{\k29} yo{\k0}
+Comment: 0,0:23:06.18,0:23:10.49,Toumei Kara ED,,0,0,0,karaoke,{\k31}{\k25}O{\k27}ne{\k21}ga{\k30}i {\k29}na{\k22}n{\k62}te {\k43}shi{\k28}te {\k26}na{\k18}i {\k33}no{\k36}ni{\k0}
+Comment: 0,0:23:10.49,0:23:16.06,Toumei Kara ED,,0,0,0,karaoke,{\k16}{\k53}Do{\k43}u{\k59}shi{\k58}te {\k19}i{\k28}tsu{\k25}mo {\k23}ki{\k32}zu{\k22}i{\k28}te {\k30}ku{\k24}re{\k25}ru {\k47}no?
+Comment: 0,0:23:16.06,0:23:21.01,Toumei Kara ED,,0,0,0,karaoke,{\k34}{\k22}Wa{\k52}kat{\k29}te{\k23}ru {\k29}yo {\k28}na{\k25}n{\k54}te {\k47}i{\k53}wa{\k51}zu {\k25}ni{\k0}
+Comment: 0,0:23:21.01,0:23:26.24,Toumei Kara ED,,0,0,0,karaoke,{\k0}{\k34}Cha{\k27}n{\k69}to{\k26} {\k56}wa{\k100}kat{\k57}te{\k154}ru{\k0}
+Comment: 0,0:23:26.24,0:23:28.41,Toumei Kara ED,,0,0,0,karaoke,{\k30}{\k24}Ki{\k59}mi {\k23}ga {\k27}su{\k54}ki {\k0}
+Comment: 0,0:23:28.58,0:23:32.66,Toumei Kara ED,,0,0,0,karaoke,{\k28}{\k19}Ki{\k12}mi {\k27}ga {\k15}{\k8}i{\k16}tsu{\k13}mo {\k25}o{\k26}bo{\k23}e{\k16}te {\k15}ku{\k26}re{\k25}te {\k25}ta {\k27}ka{\k62}ra{\k0}
+Comment: 0,0:23:32.66,0:23:39.05,Toumei Kara ED,,0,0,0,karaoke,{\k6}{\k11}Ky{\k27}ou {\k46}mo {\k22}{\k21}wa{\k13}ta{\k26}shi {\k11}wa {\k15}wa{\k22}ta{\k16}shi {\k67}ga {\k16}{\k12}su{\k12}ki {\k13}de {\k28}i{\k9}ra{\k25}re{\k24}ru {\k197}no{\k0}
+Comment: 0,0:23:41.17,0:23:45.18,Toumei Kara ED,,0,0,0,karaoke,{\k21}{\k13}Ki{\k16}mi {\k27}no {\k16}{\k12}ya{\k11}sa{\k12}shi{\k28}sa {\k23}ga {\k30}ku{\k28}re{\k24}ta {\k26}hi{\k26}ka{\k23}ri {\k44}de
+Comment: 0,0:23:45.18,0:23:49.74,Toumei Kara ED,,0,0,0,karaoke,{\k6}{\k23}Ko{\k14}ko{\k48}ro {\k27}{\k16}ni {\k39}ri{\k30}bo{\k22}n {\k24}wo {\k26}ka{\k16}ke{\k45}ta {\k19}{\k37}mi{\k41}ta{\k23}i{\k0}
+Comment: 0,0:23:49.74,0:23:53.60,Toumei Kara ED,,0,0,0,karaoke,{\k7}{\k26}Ko{\k22}n{\k28}do {\k26}wa {\k28}wa{\k21}ta{\k30}shi {\k24}no {\k21}ba{\k32}n {\k23}da {\k27}ka{\k71}ra
+Comment: 0,0:23:53.60,0:23:58.86,Toumei Kara ED,,0,0,0,karaoke,{\k36}{\k25}Ki{\k15}mi {\k35}no {\k30}to{\k24}na{\k26}ri {\k27}no {\k23}wa{\k35}ta{\k50}shi {\k23}{\k24}mi{\k30}te {\k25}i{\k12}te {\k86}ne
+Dialogue: 0,0:23:05.17,0:23:08.17,sign_Arial,,0,0,0,,
+Dialogue: 0,0:22:30.00,0:22:34.21,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}No caminho de volta para casa, sussurrei sem querer,
+Dialogue: 0,0:22:34.21,0:22:39.00,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}com uma voz que quase se perdia no som do vento.
+Dialogue: 0,0:22:39.09,0:22:43.17,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Mesmo sem eu dizer o resto da frase,
+Dialogue: 0,0:22:43.17,0:22:47.60,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}você me acolhe e compreende com todo carinho.
+Dialogue: 0,0:22:47.60,0:22:51.77,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Às vezes faltam palavras
+Dialogue: 0,0:22:51.77,0:22:55.90,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}pra expressar direito o que eu sinto...
+Dialogue: 0,0:22:55.90,0:23:00.03,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Mas, mesmo assim, a sua bondade
+Dialogue: 0,0:23:00.03,0:23:06.11,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}quase me faz chorar um pouco.
+Dialogue: 0,0:23:06.11,0:23:10.41,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Eu nem cheguei a pedir nada...
+Dialogue: 0,0:23:10.41,0:23:15.96,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}como você consegue notar sempre?
+Dialogue: 0,0:23:15.96,0:23:20.92,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Gosto desse seu jeito de entender tudo de verdade,
+Dialogue: 0,0:23:20.92,0:23:26.18,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}sem nem precisar dizer "eu já sei".
+Dialogue: 0,0:23:26.18,0:23:28.35,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Eu te amo!
+Dialogue: 0,0:23:28.51,0:23:32.56,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Como você sempre se lembrava das minhas coisas,
+Dialogue: 0,0:23:32.56,0:23:38.98,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}hoje eu também consigo gostar de quem eu sou.
+Dialogue: 0,0:23:41.07,0:23:45.11,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}A luz que a sua gentileza me deu...
+Dialogue: 0,0:23:45.11,0:23:49.66,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}é como se colocasse um laço no meu coração.
+Dialogue: 0,0:23:49.66,0:23:53.54,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}Agora é a minha vez,
+Dialogue: 0,0:23:53.54,0:23:58.79,Toumei PTBR,,0,0,0,,{\fad(200,100)\blur10\bord7\3c&ffffff&\t(250,620, \3c&H0AA6D3&\blur7}então olha só pra mim aqui do seu lado.
+Dialogue: 0,0:22:29.99,0:22:30.06,Toumei PTBR,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
-Dialogue: 0,0:22:30.27,0:22:34.56,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kaerimichi futo tsubuyaita\N{\c&H09BCFF&}No caminho de volta para casa, sussurrei sem querer,
-Dialogue: 0,0:22:34.56,0:22:39.40,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kaze no oto ni magireru yo na koe\N{\c&H09BCFF&}com uma voz que parecia se confundir com o som do vento.
-Dialogue: 0,0:22:39.40,0:22:43.20,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Sono tsuzuki wo iwanakute mo\N{\c&H09BCFF&}Mesmo sem eu dizer o resto da frase,
-Dialogue: 0,0:22:43.20,0:22:47.59,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Chanto kimi wa hirotte kureru\N{\c&H09BCFF&}você me acolhe e compreende com todo carinho.
-Dialogue: 0,0:22:47.59,0:22:52.03,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Umaku tsutaerarenai yo na\N{\c&H09BCFF&}Às vezes há palavras que pareço não conseguir
-Dialogue: 0,0:22:52.03,0:22:56.19,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kotoba mo tokidoki aru kedo\N{\c&H09BCFF&}expressar direito, mas...
-Dialogue: 0,0:22:56.19,0:23:00.09,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Sore demo kimi no yasashisa de\N{\c&H09BCFF&}Ainda assim, por causa da sua gentileza,
-Dialogue: 0,0:23:00.09,0:23:06.40,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Sukoshi namida ga desou ni natte shimau yo\N{\c&H09BCFF&}quase deixo escapar algumas lágrimas.
-Dialogue: 0,0:23:06.40,0:23:10.53,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Onegai nante shite nai noni\N{\c&H09BCFF&}Mesmo que eu não tenha pedido nada,
-Dialogue: 0,0:23:10.53,0:23:16.04,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Doushite itsumo kizuyte kureru no?\N{\c&H09BCFF&}por que você sempre percebe como me sinto?
-Dialogue: 0,0:23:16.27,0:23:21.00,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Wakatteru yo nante iwazu ni\N{\c&H09BCFF&}Sem precisar dizer "eu já sei",
-Dialogue: 0,0:23:21.00,0:23:26.45,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Chanto wakatteru\N{\c&H09BCFF&}você simplesmente entende de verdade.
-Dialogue: 0,0:23:26.45,0:23:28.63,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kimi ga suki\N{\c&H09BCFF&}Eu gosto de você.
-Dialogue: 0,0:23:28.78,0:23:32.65,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kimi ga itsumo oboete kurete ta kara\N{\c&H09BCFF&}Como você sempre se lembrou de mim,
-Dialogue: 0,0:23:32.65,0:23:39.26,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kyou mo watashi wa watashi ga suki de irareru no\N{\c&H09BCFF&}hoje também consigo gostar de quem eu sou.
-Dialogue: 0,0:23:41.40,0:23:45.18,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kimi no yasashisa ga kureta hikari de\N{\c&H09BCFF&}Com a luz que a sua gentileza me deu,
-Dialogue: 0,0:23:45.18,0:23:49.68,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kokoro ni ribon wo kaketa mitai\N{\c&H09BCFF&}é como se um laço de fita tivesse sido atado no meu coração.
-Dialogue: 0,0:23:49.68,0:23:53.82,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kondo wa watashi no ban da kara\N{\c&H09BCFF&}Como agora é a minha vez,
-Dialogue: 0,0:23:53.82,0:23:59.06,Default,,0,0,0,,{\fad(200,100)\fnGaramond\fs48\an9\bord2\blur2.5\shad0\}Kimi no tonari no watashi mite ite ne\N{\c&H09BCFF&}fique olhando para mim ao seu lado.
