@@ -16,9 +16,9 @@ Video File: [CFSB] Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita - 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 376
-Active Line: 380
-Video Position: 2317
+Scroll Position: 406
+Active Line: 410
+Video Position: 34380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,6 +39,7 @@ Style: sign_Verdana,Verdana,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,
 Style: Toumei Kara,Indie Flower,80,&H00FFFFFF,&H000000FF,&H00FF92F1,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,60,60,40,1
 Style: Toumei PTBR,Indie Flower,80,&H00FFFFFF,&H000000FF,&H00F166E0,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,60,60,40,1
 Style: Toumei Créditos,Realistic Nature,70,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,1
+Style: Toumei Kara ED,Indie Flower,80,&H00FFFFFF,&H000000FF,&H000AA6D3,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,60,60,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -434,26 +435,46 @@ Dialogue: 0,0:02:05.52,0:02:05.66,Toumei Créditos,,0,0,0,,{\fad(0,118)\shad0\bo
 Dialogue: 1,0:02:02.24,0:02:05.52,Toumei Créditos,,0,0,0,,{\shad1\4c&ffffff&\fad(216,0)\blur11\c&HFFFFFF&\fs50\pos(1414,614.571)\1a&H55&\t(216,500, \c&f&\shad0\be18\blur9\1a&H00&)}www.crystalfansub.org
 Dialogue: 1,0:02:05.52,0:02:05.66,Toumei Créditos,,0,0,0,,{\fad(0,118)\shad0\bord0\fs50\1a&H00&)\pos(1414,614.571)\t(20,118, \blur9)}www.crystalfansub.org
 Dialogue: 0,0:22:20.94,0:22:23.94,sign_TimesNewRoman,,0,0,0,,
-Dialogue: 0,0:22:30.06,0:22:34.36,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kaerimichi futo tsubuyaita\N{\c&H09BCFF&}No caminho de volta para casa, sussurrei sem querer,
-Dialogue: 0,0:22:34.36,0:22:39.19,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kaze no oto ni magireru yo na koe\N{\c&H09BCFF&}uma voz que quase se perdia no som do vento.
-Dialogue: 0,0:22:39.19,0:22:42.99,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Sono tsuzuki wo iwanakute mo\N{\c&H09BCFF&}Mesmo sem eu dizer o resto da frase,
-Dialogue: 0,0:22:42.99,0:22:47.37,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Chanto kimi wa hirotte kureru\N{\c&H09BCFF&}você me acolhe e compreende com todo carinho.
-Dialogue: 0,0:22:47.37,0:22:51.83,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Umaku tsutaerarenai you na\N{\c&H09BCFF&}Às vezes faltam palavras
-Dialogue: 0,0:22:51.83,0:22:55.96,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kotoba mo tokidoki aru kedo\N{\c&H09BCFF&}pra expressar direito o que eu sinto...
-Dialogue: 0,0:22:55.96,0:22:59.88,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Soredemo kimi no yasashisa de\N{\c&H09BCFF&}Mas, mesmo assim, a sua bondade
-Dialogue: 0,0:22:59.88,0:23:06.18,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Sukoshi namida ga desou ni natte shimau yo\N{\c&H09BCFF&}quase me faz chorar um pouco.
-Dialogue: 0,0:23:06.18,0:23:10.31,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Onegai nante shite nai noni\N{\c&H09BCFF&}Eu nem cheguei a pedir nada...
-Dialogue: 0,0:23:10.31,0:23:15.81,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Doushite itsumo kizuyte kureru no?\N{\c&H09BCFF&}como você consegue notar sempre?
-Dialogue: 0,0:23:16.06,0:23:20.78,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Wakatteru yo nante iwazu ni\N{\c&H09BCFF&}Gosto desse seu jeito de entender tudo de verdade,
-Dialogue: 0,0:23:20.78,0:23:26.24,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Chanto wakatteru\N{\c&H09BCFF&}sem nem precisar dizer "eu já sei".
-Dialogue: 0,0:23:26.24,0:23:28.41,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi ga suki {\fnYu Mincho\fs48}♡\N{\fn\c&H09BCFF&}Eu gosto de você.
-Dialogue: 0,0:23:28.58,0:23:32.46,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi ga itsumo oboete kurete ta kara\N{\c&H09BCFF&}Como você sempre se lembrava das minhas coisas,
-Dialogue: 0,0:23:32.46,0:23:39.05,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kyou mo watashi wa watashi ga suki de irareru no\N{\c&H09BCFF&}hoje eu também consigo gostar de quem eu sou.
-Dialogue: 0,0:23:41.17,0:23:44.97,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi no yasashisa ga kureta hikari de\N{\c&H09BCFF&}A luz que a sua gentileza me deu...
-Dialogue: 0,0:23:44.97,0:23:49.47,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kokoro ni ribon wo kaketa mitai\N{\c&H09BCFF&}é como se colocasse um laço no meu coração.
-Dialogue: 0,0:23:49.47,0:23:53.60,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kondo wa watashi no ban da kara\N{\c&H09BCFF&}Agora é a minha vez,
-Dialogue: 0,0:23:53.60,0:23:58.86,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi no tonari no watashi mite ite ne\N{\c&H09BCFF&}então olha só pra mim aqui do seu lado.
+Dialogue: 0,0:22:30.06,0:22:34.29,Toumei Kara ED,,0,0,0,,{\k37}{\k31}Ka{\k26}e{\k23}ri{\k24}mi{\k54}chi {\k30}fu{\k21}to {\k31}tsu{\k27}bu{\k23}ya{\k24}i{\k79}ta{\k0}
+Dialogue: 0,0:22:34.29,0:22:39.09,Toumei Kara ED,,0,0,0,,{\k28}{\k26}Ka{\k25}ze {\k28}no {\k25}o{\k54}to {\k27}ni {\k23}ma{\k56}gi{\k25}re{\k23}ru {\k55}yo {\k25}na {\k29}ko{\k34}e{\k0}
+Dialogue: 0,0:22:39.19,0:22:43.27,Toumei Kara ED,,0,0,0,,{\k31}{\k32}So{\k50}no {\k28}tsu{\k26}zu{\k28}ki {\k27}wo {\k27}i{\k24}wa{\k39}na{\k15}ku{\k45}te {\k36}mo{\k0}
+Dialogue: 0,0:22:43.27,0:22:47.68,Toumei Kara ED,,0,0,0,,{\k21}{\k32}Cha{\k23}n{\k23}to {\k28}ki{\k26}mi {\k28}wa {\k26}hi{\k50}rot{\k26}te {\k54}ku{\k53}re{\k51}ru{\k0}
+Dialogue: 0,0:22:47.68,0:22:51.83,Toumei Kara ED,,0,0,0,,{\k29}{\k25}U{\k25}ma{\k23}ku {\k30}tsu{\k27}ta{\k26}e{\k25}ra{\k27}re{\k26}na{\k51}i {\k28}yo{\k23}u {\k50}na{\k0}
+Dialogue: 0,0:22:51.83,0:22:55.96,Toumei Kara ED,,0,0,0,,{\k29}{\k25}Ko{\k27}to{\k26}ba {\k26}mo {\k26}to{\k51}ki{\k27}do{\k25}ki {\k52}a{\k27}ru {\k27}ke{\k45}do{\k0}
+Dialogue: 0,0:22:55.96,0:23:00.09,Toumei Kara ED,,0,0,0,,{\k27}So{\k27}re{\k27}de{\k41}mo {\k27}ki{\k40}mi {\k26}no {\k25}ya{\k26}sa{\k48}shi{\k61}sa {\k38}de{\k0}
+Dialogue: 0,0:23:00.09,0:23:06.18,Toumei Kara ED,,0,0,0,,{\k0}{\k34}Su{\k24}ko{\k53}shi{\k33} {\k24}na{\k30}mi{\k24}da {\k24}ga {\k23}de{\k30}so{\k26}u {\k24}ni {\k103}nat{\k46}te {\k37}shi{\k25}ma{\k20}u{\k29} yo{\k0}
+Dialogue: 0,0:23:06.18,0:23:10.49,Toumei Kara ED,,0,0,0,,{\k31}{\k25}O{\k27}ne{\k21}ga{\k30}i {\k29}na{\k22}n{\k62}te {\k43}shi{\k28}te {\k26}na{\k18}i {\k33}no{\k36}ni{\k0}
+Dialogue: 0,0:23:10.49,0:23:16.06,Toumei Kara ED,,0,0,0,,{\k16}{\k53}Do{\k43}u{\k59}shi{\k58}te {\k19}i{\k28}tsu{\k25}mo {\k23}ki{\k32}zu{\k22}i{\k28}te {\k30}ku{\k24}re{\k25}ru {\k47}no?
+Dialogue: 0,0:23:16.06,0:23:21.01,Toumei Kara ED,,0,0,0,,{\k34}{\k22}Wa{\k52}kat{\k29}te{\k23}ru {\k29}yo {\k28}na{\k25}n{\k54}te {\k47}i{\k53}wa{\k51}zu {\k25}ni{\k0}
+Dialogue: 0,0:23:21.01,0:23:26.24,Toumei Kara ED,,0,0,0,,{\k0}{\k34}Cha{\k27}n{\k69}to{\k26} {\k56}wa{\k100}kat{\k57}te{\k154}ru{\k0}
+Dialogue: 0,0:23:26.24,0:23:28.41,Toumei Kara ED,,0,0,0,,{\k30}{\k24}Ki{\k59}mi {\k23}ga {\k27}su{\k54}ki {\k0}
+Dialogue: 0,0:23:28.58,0:23:32.66,Toumei Kara ED,,0,0,0,,{\k28}{\k19}Ki{\k12}mi {\k27}ga {\k15}{\k8}i{\k16}tsu{\k13}mo {\k25}o{\k26}bo{\k23}e{\k16}te {\k15}ku{\k26}re{\k25}te {\k25}ta {\k27}ka{\k62}ra{\k0}
+Dialogue: 0,0:23:32.66,0:23:39.05,Toumei Kara ED,,0,0,0,,{\k6}{\k11}Ky{\k27}ou {\k46}mo {\k22}{\k21}wa{\k13}ta{\k26}shi {\k11}wa {\k15}wa{\k22}ta{\k16}shi {\k67}ga {\k16}{\k12}su{\k12}ki {\k13}de {\k28}i{\k9}ra{\k25}re{\k24}ru {\k197}no{\k0}
+Dialogue: 0,0:23:41.17,0:23:45.18,Toumei Kara ED,,0,0,0,,{\k21}{\k13}Ki{\k16}mi {\k27}no {\k16}{\k12}ya{\k11}sa{\k12}shi{\k28}sa {\k23}ga {\k30}ku{\k28}re{\k24}ta {\k26}hi{\k26}ka{\k23}ri {\k44}de
+Dialogue: 0,0:23:45.18,0:23:49.74,Toumei Kara ED,,0,0,0,,{\k6}{\k23}Ko{\k14}ko{\k48}ro {\k27}{\k16}ni {\k39}ri{\k30}bo{\k22}n {\k24}wo {\k26}ka{\k16}ke{\k45}ta {\k19}{\k37}mi{\k41}ta{\k23}i{\k0}
+Dialogue: 0,0:23:49.74,0:23:53.60,Toumei Kara ED,,0,0,0,,{\k7}{\k26}Ko{\k22}n{\k28}do {\k26}wa {\k28}wa{\k21}ta{\k30}shi {\k24}no {\k21}ba{\k32}n {\k23}da {\k27}ka{\k71}ra
+Dialogue: 0,0:23:53.60,0:23:58.86,Toumei Kara ED,,0,0,0,,{\k36}{\k25}Ki{\k15}mi {\k35}no {\k30}to{\k24}na{\k26}ri {\k27}no {\k23}wa{\k35}ta{\k50}shi {\k23}{\k24}mi{\k30}te {\k25}i{\k12}te {\k86}ne
 Dialogue: 0,0:23:05.17,0:23:08.17,sign_Arial,,0,0,0,,
+Comment: 0,0:22:30.06,0:22:34.36,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kaerimichi futo tsubuyaita\N{\c&H09BCFF&}No caminho de volta para casa, sussurrei sem querer,
+Comment: 0,0:22:34.36,0:22:39.19,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kaze no oto ni magireru yo na koe\N{\c&H09BCFF&}uma voz que quase se perdia no som do vento.
+Comment: 0,0:22:39.19,0:22:42.99,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Sono tsuzuki wo iwanakute mo\N{\c&H09BCFF&}Mesmo sem eu dizer o resto da frase,
+Comment: 0,0:22:42.99,0:22:47.37,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Chanto kimi wa hirotte kureru\N{\c&H09BCFF&}você me acolhe e compreende com todo carinho.
+Comment: 0,0:22:47.37,0:22:51.83,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Umaku tsutaerarenai you na\N{\c&H09BCFF&}Às vezes faltam palavras
+Comment: 0,0:22:51.83,0:22:55.96,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kotoba mo tokidoki aru kedo\N{\c&H09BCFF&}pra expressar direito o que eu sinto...
+Comment: 0,0:22:55.96,0:22:59.88,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Soredemo kimi no yasashisa de\N{\c&H09BCFF&}Mas, mesmo assim, a sua bondade
+Comment: 0,0:22:59.88,0:23:06.18,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Sukoshi namida ga desou ni natte shimau yo\N{\c&H09BCFF&}quase me faz chorar um pouco.
+Comment: 0,0:23:06.18,0:23:10.31,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Onegai nante shite nai noni\N{\c&H09BCFF&}Eu nem cheguei a pedir nada...
+Comment: 0,0:23:10.31,0:23:15.81,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Doushite itsumo kizuyte kureru no?\N{\c&H09BCFF&}como você consegue notar sempre?
+Comment: 0,0:23:16.06,0:23:20.78,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Wakatteru yo nante iwazu ni\N{\c&H09BCFF&}Gosto desse seu jeito de entender tudo de verdade,
+Comment: 0,0:23:20.78,0:23:26.24,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Chanto wakatteru\N{\c&H09BCFF&}sem nem precisar dizer "eu já sei".
+Comment: 0,0:23:26.24,0:23:28.41,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi ga suki {\fnYu Mincho\fs48}♡\N{\fn\c&H09BCFF&}Eu gosto de você.
+Comment: 0,0:23:28.58,0:23:32.46,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi ga itsumo oboete kurete ta kara\N{\c&H09BCFF&}Como você sempre se lembrava das minhas coisas,
+Comment: 0,0:23:32.46,0:23:39.05,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kyou mo watashi wa watashi ga suki de irareru no\N{\c&H09BCFF&}hoje eu também consigo gostar de quem eu sou.
+Comment: 0,0:23:41.17,0:23:44.97,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi no yasashisa ga kureta hikari de\N{\c&H09BCFF&}A luz que a sua gentileza me deu...
+Comment: 0,0:23:44.97,0:23:49.47,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kokoro ni ribon wo kaketa mitai\N{\c&H09BCFF&}é como se colocasse um laço no meu coração.
+Comment: 0,0:23:49.47,0:23:53.60,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kondo wa watashi no ban da kara\N{\c&H09BCFF&}Agora é a minha vez,
+Comment: 0,0:23:53.60,0:23:58.86,Default,,0,0,0,,{\fad(200,100)\fnComic sans MS\fs60\an9\bord2\blur2.5\shad0\}Kimi no tonari no watashi mite ite ne\N{\c&H09BCFF&}então olha só pra mim aqui do seu lado.
+Dialogue: 0,0:23:08.17,0:23:10.31,sign_Arial,,0,0,0,,
 Dialogue: 1,0:00:35.65,0:00:36.55,Toumei Kara,,0,0,20,fx,{\3c!textcolor!\an5\3c&HFF92F1&\blur10\bord2\shad0\move(385,60,485,60,0,350)\t(0,350,\bord6)\fad(250,0)}K
 Dialogue: 1,0:00:35.68,0:00:36.55,Toumei Kara,,0,0,20,fx,{\3c!textcolor!\an5\3c&HFF92F1&\blur10\bord2\shad0\move(412,60,512,60,0,350)\t(0,350,\bord6)\fad(250,0)}a
 Dialogue: 1,0:00:35.65,0:00:36.55,Toumei Kara,,0,0,20,fx,{\c\an5\xbord3\bord3\shad0\move(385,60,485,60,0,350)\fad(200,0)}K
