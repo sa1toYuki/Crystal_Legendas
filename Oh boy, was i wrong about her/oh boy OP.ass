@@ -10,71 +10,78 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: [CFSB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken - 02 [1080p][WEB-DL][AVC][AAC][C5E843EC].mkv
 Video File: [CFSB] Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken - 02 [1080p][WEB-DL][AVC][AAC][C5E843EC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
+Scroll Position: 27
 Video Position: 2884
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: DefaultItalics,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: DefaultTop,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,40,1
-Style: DefaultItalicsTop,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,2,8,60,60,40,1
-Style: DefaultOverlap,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
-Style: Flashback,Comic Neue,70,&H00FFFFFF,&H000000FF,&H000EA7FF,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: FlashbackItalics,Comic Neue,70,&H00FFFFFF,&H000000FF,&H000EA7FF,&H00000000,-1,-1,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: FlashbackTop,Comic Neue,70,&H00FFFFFF,&H000000FF,&H000EA7FF,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,40,1
-Style: FlashbackItalicsTop,Comic Neue,70,&H00FFFFFF,&H000000FF,&H000EA7FF,&H00000000,-1,-1,0,0,100,100,0,0,1,3,2,8,60,60,40,1
-Style: Narration,Comic Neue,70,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: Alt,Comic Neue,70,&H00FFFFFF,&H000000FF,&H007F4848,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,60,60,40,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,60,60,69,0
-Style: Creditos,Verdana,42,&H00FFFFFF,&H000000FF,&H4C000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,10,10,10,1
-Style: Super - Romaji,Utendo,85,&H006C00FF,&H00B68145,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,2,2,8,10,10,10,1
-Style: Super - PTBR,Utendo,85,&H00B68145,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,2,2,2,10,10,10,1
-Style: DITF KARAOKE END 1,Cascadia Mono,65,&H00FFBD00,&H007A7A7A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,3,8,10,10,10,1
-Style: DITF KARAOKE END 1 - TRAD,Cascadia Mono,65,&H00FFFFFF,&H007A7A7A,&H00FFBD00,&H00000000,0,0,0,0,100,100,0,0,1,2.5,3,2,10,10,10,1
-Style: Créditos DITF,Sans,48,&H00F6F5E9,&H000000FF,&HCE272727,&H00000000,0,0,0,0,100,93,0,0,1,0.1,0.1,2,10,10,10,1
-Style: DITF KARAOKE,Cascadia Mono,65,&H000000FF,&H007A7A7A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,3,8,10,10,10,1
-Style: DITF KARAOKE - TRAD,Cascadia Mono,65,&H00FFFFFF,&H007A7A7A,&H000000FF,&H00000000,0,0,0,0,100,100,0,0,1,2.5,3,2,10,10,10,1
-Style: BDR - ED,Cheese Milky,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: TPCSFB,Arial Black,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: CrystalRO,Aurelia Emiko,65,&H00C0AFED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: CrystalOP,Aurelia Emiko,70,&H00C0AFED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
-Style: Creditos _SNU,Arial,67,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,90,90,54,0
-Style: Default-Crunchy,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Tenkou-Saki OP,Pangolin,90,&H00B83359,&H00949494,&H00FFFFFF,&H00E44B74,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: Tenkou-Saki OP - Traduzido,Pangolin,80,&H00B83359,&H00949494,&H00FFFFFF,&H00B83359,-1,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:55.67,0:02:04.35,Sign_Basic,text,0,0,0,,{\fad(608,0)\bord0\shad0\c&HFE810B&\fn@Microsoft YaHei UI\fs76\b1\pos(941,93)}Nossa, {\c}eu estava tão enganado sobre {\c&HFE810B&}ela
-Dialogue: 0,0:01:43.33,0:01:46.28,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Yuudachi no ato no kumo no kirema mo\N{\c&HFF7F09&}Correndo atrás da linha reta
-Dialogue: 0,0:01:46.28,0:01:48.42,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}chokusen mo oikakete\N{\c&HFF7F09&}entre as nuvens, após a chuva de verão...
-Dialogue: 0,0:01:48.42,0:01:50.86,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Mitsuketa yo\N{\c&HFF7F09&}Eu te achei!
-Dialogue: 0,0:01:50.86,0:01:52.18,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Kimi wo mitsuketa\N{\c&HFF7F09&}Eu encontrei você.
-Dialogue: 0,0:02:04.27,0:02:06.57,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Minarenai biru no setake to\N{\c&HFF7F09&}A altura desses prédios estranhos,
-Dialogue: 0,0:02:06.57,0:02:08.65,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}kasunde iku aze michi\N{\c&HFF7F09&}e as estradas que vão sumindo na névoa...
-Dialogue: 0,0:02:09.59,0:02:12.02,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Sora wa suna wo katteru da toka\N{\c&HFF7F09&}Dizem que o céu esconde a areia,
-Dialogue: 0,0:02:12.02,0:02:14.11,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}kono chikyuu wa ijiwaru da?\N{\c&HFF7F09&}ou a Terra só está sendo maldosa?
-Dialogue: 0,0:02:15.26,0:02:17.40,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Pitagorasu no otoshimono ga\N{\c&HFF7F09&}O legado de Pitágoras
-Dialogue: 0,0:02:17.40,0:02:20.40,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}katei wo muzukashiku shita yo ne\N{\c&HFF7F09&}deixou nosso caminho mais difícil, né?
-Dialogue: 0,0:02:20.40,0:02:23.20,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Futatsu wo musubu ono kyori wa\N{\c&HFF7F09&}A distância que une dois pontos
-Dialogue: 0,0:02:23.20,0:02:25.19,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}chijou yori fukuzatsu da\N{\c&HFF7F09&}é mais complexa do que parece aqui no chão.
-Dialogue: 0,0:02:25.19,0:02:27.54,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Dou shiyou mo nai kodoku ga\N{\c&HFF7F09&}Uma solidão inevitável
-Dialogue: 0,0:02:27.54,0:02:29.72,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}dou shiyou mo naku karete iku\N{\c&HFF7F09&}vai se esgotando sem pressa.
-Dialogue: 0,0:02:29.72,0:02:33.93,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Inori ni kaete, himawari ga saku\N{\c&HFF7F09&}Feito prece, os girassóis florescem.
-Dialogue: 0,0:02:33.93,0:02:35.06,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Sou da yo!\N{\c&HFF7F09&}Isso mesmo!
-Dialogue: 0,0:02:35.06,0:02:39.70,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Kawari hajimeta kokoro wo nazori, nazori, kasane nagara\N{\c&HFF7F09&}Traçando e revivendo este coração que muda,
-Dialogue: 0,0:02:39.86,0:02:42.70,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}fumidashite iku asufaruto ni\N{\c&HFF7F09&}sigo em frente pelo asfalto.
-Dialogue: 0,0:02:42.70,0:02:45.96,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Riyuu wo tsukeru made no nanhyaku mairu\N{\c&HFF7F09&}São centenas de milhas até achar uma razão.
-Dialogue: 0,0:02:45.96,0:02:48.75,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Machi no hikari ya attakai kaze mo\N{\c&HFF7F09&}As luzes da cidade e o vento morno
-Dialogue: 0,0:02:48.75,0:02:50.65,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}ou furikaeru you ni\N{\c&HFF7F09&}parecem olhar para trás, nos seguindo.
-Dialogue: 0,0:02:50.65,0:02:54.48,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Fumei nara, yubisaki no ondo de\N{\c&HFF7F09&}Se tudo estiver incerto, guie-se pelo calor dos dedos
-Dialogue: 0,0:02:54.48,0:02:57.48,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}ashidori no rizumu de sa\N{\c&HFF7F09&}e pelo ritmo dos seus passos.
-Dialogue: 0,0:02:57.48,0:02:58.83,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Tsukune yo\N{\c&HFF7F09&}Eu vou nos conectar.
-Dialogue: 0,0:02:58.83,0:03:01.77,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Chanto shiawase ni naru kara ne\N{\c&HFF7F09&}Com certeza seremos felizes.
-Dialogue: 0,0:03:01.77,0:03:04.29,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Aru natsu no koto\N{\c&HFF7F09&}Naquele verão,
-Dialogue: 0,0:03:04.45,0:03:06.29,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}himawari ga matsu\N{\c&HFF7F09&}os girassóis nos esperam.
-Dialogue: 0,0:03:07.05,0:03:11.07,Default,,0,0,0,,{\fad(200,100)\fnComic sans ms\fs60\an2\bord2\blur2.5\shad0\}Ano keshiki ni chikau\N{\c&HFF7F09&}Eu prometo àquela paisagem!
+Dialogue: 0,0:01:33.67,0:01:42.25,Sign_Basic,text,0,0,0,,{\fad(608,0)\bord0\shad0\c&HFE810B&\fn@Microsoft YaHei UI\fs76\b1\pos(941,93)}Nossa{\c}, eu estava tão enganado sobre {\c&HFE810B&}ela
+Dialogue: 0,0:01:42.25,0:01:42.35,Sign_Basic,text,0,0,0,,{\t(50,0, \blur7)\bord0\shad0\c&HA75500&\fn@Microsoft YaHei UI\fs76\b1\pos(941,93)}Nossa{\c}, eu estava tão enganado sobre {\c&HDE8121&}ela
+Dialogue: 0,0:01:21.44,0:01:24.15,Tenkou-Saki OP,,0,0,0,karaoke,{\k36}Yuu{\k11}da{\k24}chi {\k15}no {\k16}a{\k19}to {\k17}no {\k36}ku{\k17}mo {\k15}no {\k20}ki{\k17}re{\k13}ma {\k15}no
+Dialogue: 0,0:01:24.24,0:01:26.33,Tenkou-Saki OP,,0,0,0,karaoke,{\k6}{\k25}cho{\k8}ku{\k34}sen {\k19}wo {\k19}o{\k16}i{\k17}ka{\k20}ke{\k45}te{\k0}
+Dialogue: 0,0:01:26.36,0:01:28.82,Tenkou-Saki OP,,0,0,0,karaoke,{\k0}{\k22}Mi{\k13}tsu{\k21}ke{\k14}ta {\k180}yo!{\k0}
+Dialogue: 0,0:01:28.82,0:01:30.18,Tenkou-Saki OP,,0,0,0,karaoke,{\k16}ki{\k18}mi {\k15}wo {\k15}mi{\k17}tsu{\k18}ke{\k37}ta
+Dialogue: 0,0:01:42.27,0:01:44.47,Tenkou-Saki OP,,0,0,0,karaoke,{\k0}{\k21}Mi{\k21}na{\k15}re{\k24}nai {\k14}{\k16}bi{\k14}ru {\k16}no {\k18}se{\k18}ta{\k19}ke {\k24}to{\k0}
+Dialogue: 0,0:01:44.55,0:01:46.65,Tenkou-Saki OP,,0,0,0,karaoke,{\k0}{\k16}ka{\k22}su{\k14}n{\k20}de {\k15}i{\k18}ku {\k31}a{\k21}ze{\k14}mi{\k39}chi{\k0}
+Dialogue: 0,0:01:47.47,0:01:50.02,Tenkou-Saki OP,,0,0,0,karaoke,{\k15}{\k16}So{\k20}ra {\k15}wa {\k21}tsu{\k32}na{\k33}gat{\k23}te{\k14}ru {\k18}da {\k17}to {\k31}ka
+Dialogue: 0,0:01:50.02,0:01:52.01,Tenkou-Saki OP,,0,0,0,karaoke,{\k20}ko{\k17}no {\k16}chi{\k35}kyuu {\k17}wa {\k19}i{\k16}ji{\k19}wa{\k18}ru {\k22}da?{\k0}
+Dialogue: 0,0:01:53.28,0:01:55.50,Tenkou-Saki OP,,0,0,0,karaoke,{\k18}Pi{\k18}ta{\k20}go{\k19}ra{\k13}su {\k19}no {\k15}o{\k10}to{\k24}shi{\k17}mo{\k20}no {\k29}ga
+Dialogue: 0,0:01:55.50,0:01:58.30,Tenkou-Saki OP,,0,0,0,karaoke,{\k21}ka{\k16}te{\k19}i {\k26}wo {\k30}mu{\k11}zu{\k17}ka{\k16}shi{\k13}ku {\k23}shi{\k34}tan {\k17}da {\k17}yo {\k20}ne
+Dialogue: 0,0:01:58.35,0:02:01.12,Tenkou-Saki OP,,0,0,0,karaoke,{\k11}Fu{\k15}ta{\k17}tsu {\k51}wo {\k16}mu{\k31}su{\k25}{\k12}bu {\k18}so{\k17}no {\k8}ky{\k12}o{\k15}ri {\k29}wa{\k0}
+Dialogue: 0,0:02:01.12,0:02:03.13,Tenkou-Saki OP,,0,0,0,karaoke,{\k22}ji{\k20}jo{\k19}u {\k14}yo{\k16}ri {\k24}fu{\k9}ku{\k31}za{\k7}tsu {\k39}da{\k0}
+Dialogue: 0,0:02:03.13,0:02:05.47,Tenkou-Saki OP,,0,0,0,karaoke,{\k35}Dou {\k12}shi{\k17}you {\k15}mo {\k50}nai {\k19}ko{\k19}do{\k14}ku {\k53}ga
+Dialogue: 0,0:02:05.47,0:02:07.72,Tenkou-Saki OP,,0,0,0,karaoke,{\k19}{\k26}dou {\k10}shi{\k16}you {\k15}mo {\k25}na{\k26}ku {\k17}ha{\k15}re{\k18}te{\k38}ku{\k0}
+Dialogue: 0,0:02:07.72,0:02:11.93,Tenkou-Saki OP,,0,0,0,karaoke,{\k15}I{\k19}no{\k14}ri {\k17}ni {\k18}ka{\k15}e{\k27}te {\k26}{\k21}hi{\k16}ma{\k17}wa{\k17}ri {\k11}ga {\k20}sa{\k168}ku
+Dialogue: 0,0:02:11.93,0:02:12.98,Tenkou-Saki OP,,0,0,0,karaoke,{\k56}Sou {\k15}da {\k34}yo!
+Dialogue: 0,0:02:12.98,0:02:17.70,Tenkou-Saki OP,,0,0,0,karaoke,{\k5}{\k30}Ka{\k22}wa{\k12}ri {\k19}ha{\k17}ji{\k15}me{\k17}ta {\k34}ko{\k24}ko{\k14}ro {\k19}wo {\k16}na{\k17}zo{\k16}ri {\k34}na{\k18}tsu {\k15}ni {\k16}ka{\k20}sa{\k19}ne {\k16}na{\k17}ga{\k40}ra
+Dialogue: 0,0:02:17.81,0:02:20.70,Tenkou-Saki OP,,0,0,0,karaoke,{\k20}Fu{\k15}mi{\k15}da{\k16}shi{\k36}te {\k19}yu{\k38}ku {\k14}{\k14}a{\k16}su{\k27}fa{\k10}ru{\k20}to {\k29}ni{\k0}
+Dialogue: 0,0:02:20.79,0:02:23.96,Tenkou-Saki OP,,0,0,0,karaoke,{\k13}{\k16}ri{\k16}yu{\k34}u {\k18}tsu{\k18}ke{\k17}ru {\k16}ma{\k18}de {\k15}no {\k37}nan{\k4}by{\k13}a{\k16}ku {\k20}ma{\k17}i{\k29}ru
+Dialogue: 0,0:02:23.96,0:02:26.70,Tenkou-Saki OP,,0,0,0,karaoke,{\k24}Ma{\k6}bu{\k32}shii {\k27}hi{\k19}ka{\k12}ri {\k21}ya {\k32}a{\k18}tta{\k17}ka{\k13}i {\k17}ka{\k20}ze {\k16}wo
+Dialogue: 0,0:02:26.70,0:02:28.65,Tenkou-Saki OP,,0,0,0,karaoke,{\k33}on{\k24}pu {\k13}ni {\k20}ka{\k19}e{\k11}ru {\k18}yo{\k19}u {\k38}ni{\k0}
+Dialogue: 0,0:02:28.65,0:02:32.38,Tenkou-Saki OP,,0,0,0,karaoke,{\k28}Un{\k26}me{\k12}i {\k18}na{\k27}ra {\k20}{\k36}yu{\k18}bi{\k16}sa{\k18}ki {\k16}no {\k38}o{\k30}n{\k36}do {\k34}de
+Dialogue: 0,0:02:32.38,0:02:36.83,Tenkou-Saki OP,,0,0,0,karaoke,{\k34}{\k29}a{\k25}shi{\k18}do{\k14}ri {\k19}no {\k33}ri{\k35}zu{\k35}mu {\k16}de {\k42}sa {\k21}{\k23}tsu{\k19}ku{\k16}re{\k14}ru {\k52}yo
+Dialogue: 0,0:02:36.83,0:02:39.77,Tenkou-Saki OP,,0,0,0,karaoke,{\k15}{\k34}Chan{\k16}to {\k23}shi{\k33}a{\k18}wa{\k19}se {\k15}ni {\k19}na{\k16}ru {\k15}ka{\k21}ra {\k50}ne
+Dialogue: 0,0:02:39.77,0:02:42.45,Tenkou-Saki OP,,0,0,0,karaoke,{\k19}A{\k15}ru {\k17}na{\k14}tsu {\k40}no {\k14}ko{\k133}to{\k16}
+Dialogue: 0,0:02:42.45,0:02:44.17,Tenkou-Saki OP,,0,0,0,karaoke,{\k23}hi{\k17}ma{\k15}wa{\k21}ri {\k33}ga {\k15}ma{\k32}tsu{\k16}
+Dialogue: 0,0:02:44.96,0:02:49.07,Tenkou-Saki OP,,0,0,0,karaoke,{\k12}{\k18}a{\k15}no {\k16}ke{\k19}shi{\k16}ki {\k35}ni {\k17}chi{\k215}ka{\k48}u{\k0}
+Dialogue: 0,0:22:27.24,0:22:30.24,Sign_Basic,,0,0,0,,
+Dialogue: 0,0:01:21.44,0:01:24.15,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Correndo atrás daquele feixe de luz
+Dialogue: 0,0:01:24.24,0:01:26.33,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}abrindo as nuvens depois da chuva de verão...
+Dialogue: 0,0:01:26.36,0:01:28.82,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Eu te achei!
+Dialogue: 0,0:01:28.82,0:01:30.18,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Eu encontrei você.
+Dialogue: 0,0:01:42.27,0:01:44.47,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Aquela altura de prédios esquisitos,
+Dialogue: 0,0:01:44.55,0:01:46.65,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}e as ruazinhas de terra sumindo de vista...
+Dialogue: 0,0:01:47.47,0:01:50.02,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Falam que o céu tá conectado e tals,
+Dialogue: 0,0:01:50.02,0:01:52.01,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}mas a Terra é meio malvada, né?
+Dialogue: 0,0:01:53.28,0:01:55.50,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Um treco perdido de Pitágoras
+Dialogue: 0,0:01:55.50,0:01:58.30,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}deixou essa teoria muito mais difícil, né?
+Dialogue: 0,0:01:58.35,0:02:01.12,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}A distância que liga dois pontos
+Dialogue: 0,0:02:01.12,0:02:03.13,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}é bem mais complexa que a própria situação.
+Dialogue: 0,0:02:03.13,0:02:05.47,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Uma solidão inevitável
+Dialogue: 0,0:02:05.47,0:02:07.72,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}vai se esgotando sem pressa.
+Dialogue: 0,0:02:07.72,0:02:11.93,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Em vez de rezas, os girassóis estão desabrochando.
+Dialogue: 0,0:02:11.93,0:02:12.98,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Isso mesmo!
+Dialogue: 0,0:02:12.98,0:02:17.70,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Seguindo esse coração que começou a mudar e misturando tudo com o verão!
+Dialogue: 0,0:02:17.81,0:02:20.70,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}São centenas de milhas até arrumar um motivo
+Dialogue: 0,0:02:20.79,0:02:23.96,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}para o asfalto que estou pisando.
+Dialogue: 0,0:02:23.96,0:02:26.70,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Como se eu transformasse essa luz forte
+Dialogue: 0,0:02:26.70,0:02:28.65,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}e o vento quentinho em notas musicais.
+Dialogue: 0,0:02:28.65,0:02:32.38,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Com o calor dos nossos dedos
+Dialogue: 0,0:02:32.38,0:02:36.83,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}e o ritmo dos nossos passos, podemos criar o nosso destino.
+Dialogue: 0,0:02:36.83,0:02:39.77,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Com certeza seremos felizes.
+Dialogue: 0,0:02:39.77,0:02:42.45,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}Naquele verão,
+Dialogue: 0,0:02:42.45,0:02:44.17,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}eu juro pra aquela paisagem,
+Dialogue: 0,0:02:44.96,0:02:49.07,Tenkou-Saki OP - Traduzido,,0,0,0,,{\blur7\fad(200,100)}onde os girassóis estão esperando.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
